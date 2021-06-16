@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension pack "cmss-frontend-extension-pack"
+## This is the README for extension pack "cmss-frontend-extension-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 

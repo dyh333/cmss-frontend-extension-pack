@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "dingyihui",
+  "repository": "https://github.com/dyh333/cmss-frontend-extension-pack",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.57.0"
