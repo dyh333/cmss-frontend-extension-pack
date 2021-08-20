@@ -1,35 +1,22 @@
 # README
 ### 插件列表
 全局工具
-* [Chinese (Simplified) Language Pack](
-https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
-* [Settings Sync](
-https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-* [Project Manager](
-https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-* [EditorConfig for VS Code](
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-* [vscode-icons](
-https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-* [Todo Tree](
-https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-* [Material Theme](
-https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+* [Chinese (Simplified) Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 * [polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 智能提示
-* [Visual Studio Intellicode](
-https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-* [Code Spell Checker](
-https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-* [indent-rainbow](
-https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-* [Bracket Pair Colorizer](
-https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-* [IntelliSense for CSS class names in HTML](
-https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-* [Version Lens](
-https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens):
+* [Visual Studio Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens):
 显示 package.json 文件中每个软件包的最新版本
 * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines): 选中行排序
 
