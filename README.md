@@ -11,21 +11,16 @@
 开发辅助
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [**TabNine**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)：基于人工智能的代码自动补全工具
-* [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): 不会使用。。。
+* [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): 神器！
 * [Visual Studio Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 * [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)：路径智能提示
 * [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
 * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-
-
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): 显示 package.json 文件中每个软件包的最新版本
 * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines): 选中行排序
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-
-
-
 * [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -87,8 +82,6 @@
 * [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [**stylelint**](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
-
-
 * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
 #### server工具
